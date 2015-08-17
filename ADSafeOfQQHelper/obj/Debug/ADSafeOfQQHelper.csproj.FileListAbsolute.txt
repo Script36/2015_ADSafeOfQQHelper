@@ -1,0 +1,8 @@
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\bin\Debug\ADSafeOfQQHelper.exe.config
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\bin\Debug\ADSafeOfQQHelper.exe
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\bin\Debug\ADSafeOfQQHelper.pdb
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Debug\ADSafeOfQQHelper.FormMain.resources
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Debug\ADSafeOfQQHelper.Properties.Resources.resources
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Debug\ADSafeOfQQHelper.csproj.GenerateResource.Cache
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Debug\ADSafeOfQQHelper.exe
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Debug\ADSafeOfQQHelper.pdb

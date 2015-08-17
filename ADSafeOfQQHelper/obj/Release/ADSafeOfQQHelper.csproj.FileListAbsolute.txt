@@ -1,0 +1,19 @@
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\bin\Release\ADSafeOfQQHelper.exe.config
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\bin\Release\ADSafeOfQQHelper.exe
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\bin\Release\ADSafeOfQQHelper.pdb
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.FormMain.resources
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.Properties.Resources.resources
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.csproj.GenerateResource.Cache
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.exe
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.pdb
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.csprojResolveAssemblyReference.cache
+D:\Users\visual studio 2012\Projects\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.MsgForm.resources
+C:\Users\邹兵\Desktop\ADSafeOfQQHelper\ADSafeOfQQHelper\bin\Release\ADSafeOfQQHelper.exe.config
+C:\Users\邹兵\Desktop\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.exe
+C:\Users\邹兵\Desktop\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.pdb
+C:\Users\邹兵\Desktop\ADSafeOfQQHelper\ADSafeOfQQHelper\bin\Release\ADSafeOfQQHelper.exe
+C:\Users\邹兵\Desktop\ADSafeOfQQHelper\ADSafeOfQQHelper\bin\Release\ADSafeOfQQHelper.pdb
+C:\Users\邹兵\Desktop\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.FormMain.resources
+C:\Users\邹兵\Desktop\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.MsgForm.resources
+C:\Users\邹兵\Desktop\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.Properties.Resources.resources
+C:\Users\邹兵\Desktop\ADSafeOfQQHelper\ADSafeOfQQHelper\obj\Release\ADSafeOfQQHelper.csproj.GenerateResource.Cache
